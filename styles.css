@@ -1,0 +1,48 @@
+body {
+    background: black;
+    color: purple;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+}
+    
+.nav-table table, th, td {
+    border: 1px solid white;
+    text-align: center;
+}
+
+.center {
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+.call-to-action {
+    color: yellow;
+}
+
+#rbTitle {
+    margin-bottom: 5px;
+}
+
+#sub-head {
+    color: brown;
+    margin-top: 0px !important;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    color: white;
+    font-size: 18px;
+}
+
+#netscape {
+    float: left;
+    margin-right: 10px;
+    clear:both;
+    margin-top: 18px;
+}
+
+#copyright {
+    overflow: auto;
+}
