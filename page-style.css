@@ -3,8 +3,12 @@ body {}
 .nav-table table,
 th,
 td {
-    border: 1px solid white;
+    border: 1px solid black;
     text-align: center;
+}
+
+.nav-table p {
+    vertical-align: bottom;
 }
 
 .center {
@@ -42,3 +46,9 @@ td {
 #copyright {
     overflow: auto;
 }
+
+#nav-title {
+    text-align: center;
+}
+
+.nav-text {}

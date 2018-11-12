@@ -5,15 +5,17 @@ body {
     font-size: 30px;
     font-family: "Comic Sans MS";
 }
-    
-.nav-table table, th, td {
+
+.nav-table table,
+th,
+td {
     border: 1px solid white;
     text-align: center;
 }
 
 .center {
-    margin-left:auto; 
-    margin-right:auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .call-to-action {
@@ -30,8 +32,6 @@ body {
 }
 
 #footer {
-    position: absolute;
-    bottom: 0;
     color: white;
     font-size: 18px;
 }
@@ -39,7 +39,7 @@ body {
 #netscape {
     float: left;
     margin-right: 10px;
-    clear:both;
+    clear: both;
     margin-top: 18px;
 }
 
